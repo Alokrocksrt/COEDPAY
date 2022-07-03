@@ -1,6 +1,6 @@
-# happyadmin
+# COEDPAYadmin
 
-Happy Credit admin
+COEDPAY Credit admin
 
 ## Getting Started
 
